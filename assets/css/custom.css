@@ -1,0 +1,75 @@
+
+/* 1. Fondo general (Azul Marino Profundo) */
+body {
+    background-color: #0f172a !important; /* Un azul marino muy elegante (estilo Tailwind/Slate) */
+    color: #f8fafc; /* Texto casi blanco para que resalte */
+}
+
+/* 2. La línea lateral de las notas (blockquote) */
+blockquote {
+    border-left: 3px solid #1e293b; /* Línea en un azul marino más claro */
+    padding-left: 1.5rem;
+    font-style: italic;
+    color: #94a3b8; /* Gris azulado para el texto de la nota */
+    margin-bottom: 2rem;
+}
+
+/* 3. Títulos (H1, H2, H3) */
+h1, h2, h3 {
+    color: #f1f5f9 !important; /* Blanco azulado muy limpio */
+}
+
+/* 4. Enlaces (puedes mantener el rosa de Robin o usar un azul cyan) */
+a {
+    color: #38bdf8; /* Un azul cielo que resalta sobre el marino */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #7dd3fc;
+}
+
+/* 5. Ajuste para que la barra de navegación también sea marina */
+header, footer {
+    background-color: #0f172a !important;
+}
+/* 1. Eliminar Lupa y Pieza Mecánica del Header */
+.flex.flex-1.items-center.justify-end button,
+#search-button,
+#appearance-switcher {
+    display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+}
+/* custom.css */
+
+/* --- LIMPIEZA QUIRÚRGICA DEL FOOTER --- */
+
+/* 1. Ocultar el párrafo completo que contiene "Powered by..." */
+footer p.text-xs.text-neutral-500 {
+    font-size: 0 !important; /* Hace que el texto desaparezca */
+    visibility: hidden;
+}
+
+/* 2. Rescatar el Copyright (ake) y volverlo a hacer visible y grande */
+footer p.text-xs.text-neutral-500 .order-first {
+    font-size: 0.75rem !important; /* Tamaño normal de texto xs */
+    visibility: visible !important;
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+}
+
+/* 3. Centrado del contenedor principal */
+footer .flex.flex-col.items-center {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100% !important;
+}
+
+/* 4. Por si acaso el botón de café sobrevive por script */
+#bmc-wbtn, .bmc-btn-container {
+    display: none !important;
+}

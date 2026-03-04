@@ -1,0 +1,14 @@
+backend:
+  name: github
+  repo: tu-usuario/mi-blog # Cambiaremos esto luego
+  branch: main
+media_folder: "static/uploads"
+public_folder: "/uploads"
+collections:
+  - name: "blog"
+    label: "Artculos"
+    folder: "content/blog"
+    create: true
+    fields:
+      - {label: "Ttulo", name: "title", widget: "string"}
+      - {label: "Contenido", name: "body", widget: "markdown"}
