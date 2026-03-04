@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://localhost:1313/empieza-el-viaje/</loc>
+    <loc>https://localhost:1313/posts/test-post/</loc>
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -381,13 +381,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="https://localhost:1313/es/tags/devops/"
+      hreflang="pt-br"
+      href="https://localhost:1313/pt-br/tags/devops/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/tags/devops/"
+      hreflang="es"
+      href="https://localhost:1313/es/tags/devops/"
     />
     <xhtml:link
       rel="alternate"
@@ -741,13 +741,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/tags/"
+      hreflang="es"
+      href="https://localhost:1313/es/tags/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="https://localhost:1313/es/tags/"
+      hreflang="pt-br"
+      href="https://localhost:1313/pt-br/tags/"
     />
     <xhtml:link
       rel="alternate"
