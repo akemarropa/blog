@@ -1,7 +1,13 @@
 baseURL = 'https://akemarropa.github.io/blog/'
-relativeURLs = false
-canonifyURLs = true
 languageCode = 'en-us'
-title = 'a spatial blog'
+title = 'ake blog'
+theme = 'blowfish'
+
+[params]
+  defaultAppearance = "dark"
+
 [permalinks]
   posts = "/:title/"
+
+[build]
+  writeStats = true
