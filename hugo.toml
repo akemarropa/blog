@@ -1,13 +1,22 @@
 baseURL = 'https://akemarropa.github.io/blog/'
-languageCode = 'en-us'
+languageCode = 'es'          # Cambiado a español
 title = 'ake blog'
 theme = 'blowfish'
 
 [params]
   defaultAppearance = "dark"
+  # Esto quita el selector de idiomas de la barra superior
+  showAppearanceSwitcher = true
+  disableLanguages = ["en"]
 
 [permalinks]
   posts = "/:title/"
 
 [build]
   writeStats = true
+
+# Añade esto para asegurar que el contenido se procese bien
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"

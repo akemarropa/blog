@@ -1,2 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on ake blog</title><link>https://akemarropa.github.io/blog/posts/</link><description>Recent content in Posts on ake blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>-.- (ake)</managingEditor><webMaster>-.- (ake)</webMaster><copyright>© 2026 ake</copyright><lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://akemarropa.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Empieza el viaje</title><link>https://akemarropa.github.io/blog/empieza-el-viaje/</link><pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate><author>-.- (ake)</author><guid>https://akemarropa.github.io/blog/empieza-el-viaje/</guid><description>&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;ldquo;there&amp;rsquo;s an electricity in the air. dictated from my drive back to oc after the event; transcribed, formatted, and deployed by an ai agent!&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie bibendum ornare. Maecenas dignissim tincidunt arcu posuere scelerisque. Fusce dictum iaculis turpis, volutpat maximus arcu elementum ut. Vestibulum in hendrerit nulla, ut semper nibh. Cras vestibulum dui et neque ullamcorper, ac porta neque sollicitudin. Suspendisse potenti. Integer malesuada gravida felis sit amet tincidunt. Morbi cursus vitae nisi vitae sollicitudin. Phasellus nec gravida ligula. Praesent eu turpis at ex imperdiet tempus ut non justo. Nam volutpat tellus in felis maximus, vehicula tempor neque ultricies. Nullam pharetra mauris non ipsum dictum malesuada. Donec accumsan dictum tellus a suscipit. Nulla pharetra mauris sit amet dictum euismod. Duis non eros tristique nulla eleifend efficitur.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ake blog</title>
+    <link>https://localhost:1313/posts/</link>
+    <description>Recent content in Posts on ake blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>-.- (ake)</managingEditor>
+    <webMaster>-.- (ake)</webMaster>
+    <copyright>© 2026 ake</copyright>
+    <lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Empieza el viaje</title>
+      <link>https://localhost:1313/empieza-el-viaje/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <author>-.- (ake)</author>
+      <guid>https://localhost:1313/empieza-el-viaje/</guid>
+      <description>&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;ldquo;there&amp;rsquo;s an electricity in the air. dictated from my drive back to oc after the event; transcribed, formatted, and deployed by an ai agent!&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie bibendum ornare. Maecenas dignissim tincidunt arcu posuere scelerisque. Fusce dictum iaculis turpis, volutpat maximus arcu elementum ut. Vestibulum in hendrerit nulla, ut semper nibh. Cras vestibulum dui et neque ullamcorper, ac porta neque sollicitudin. Suspendisse potenti. Integer malesuada gravida felis sit amet tincidunt. Morbi cursus vitae nisi vitae sollicitudin. Phasellus nec gravida ligula. Praesent eu turpis at ex imperdiet tempus ut non justo. Nam volutpat tellus in felis maximus, vehicula tempor neque ultricies. Nullam pharetra mauris non ipsum dictum malesuada. Donec accumsan dictum tellus a suscipit. Nulla pharetra mauris sit amet dictum euismod. Duis non eros tristique nulla eleifend efficitur.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
