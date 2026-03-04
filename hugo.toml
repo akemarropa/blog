@@ -1,3 +1,4 @@
-baseURL = 'https://akemarropa.github.io/'
+baseURL = 'https://akemarropa.github.io/blog/'
+relativeURLs = true
 languageCode = 'en-us'
-title = 'a new blog'
+title = 'a spatial blog'
