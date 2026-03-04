@@ -1,5 +1,6 @@
 baseURL = 'https://akemarropa.github.io/blog/'
-relativeURLs = true
+relativeURLs = false
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'a spatial blog'
 [permalinks]
