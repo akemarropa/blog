@@ -13,13 +13,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/tags/academia/"
+      hreflang="es"
+      href="https://localhost:1313/es/tags/academia/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="https://localhost:1313/es/tags/academia/"
+      hreflang="pt-br"
+      href="https://localhost:1313/pt-br/tags/academia/"
     />
     <xhtml:link
       rel="alternate"
@@ -363,13 +363,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="https://localhost:1313/es/categories/"
+      hreflang="pt-br"
+      href="https://localhost:1313/pt-br/categories/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/categories/"
+      hreflang="es"
+      href="https://localhost:1313/es/categories/"
     />
     <xhtml:link
       rel="alternate"
@@ -643,13 +643,13 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="https://localhost:1313/es/tags/mundo-de-warcraft/"
+      hreflang="pt-br"
+      href="https://localhost:1313/pt-br/tags/mundo-de-warcraft/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/tags/mundo-de-warcraft/"
+      hreflang="es"
+      href="https://localhost:1313/es/tags/mundo-de-warcraft/"
     />
     <xhtml:link
       rel="alternate"
@@ -808,13 +808,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/series/"
+      hreflang="es"
+      href="https://localhost:1313/es/series/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="https://localhost:1313/es/series/"
+      hreflang="pt-br"
+      href="https://localhost:1313/pt-br/series/"
     />
     <xhtml:link
       rel="alternate"
