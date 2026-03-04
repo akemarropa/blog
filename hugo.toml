@@ -1,10 +1,14 @@
 baseURL = 'https://akemarropa.github.io/blog/'
-languageCode = 'es'
-title = 'ake blog'
 theme = 'blowfish'
+title = 'ake blog'
+defaultContentLanguage = 'es'
+
+[languages]
+  [languages.es]
+    languageCode = 'es'
+    contentDir = 'content'
+    languageName = 'Español'
+    weight = 1
 
 [params]
   defaultAppearance = "dark"
-
-# ELIMINAMOS la sección [permalinks] que pusimos antes 
-# porque es lo que está haciendo que el post salga vacío.
