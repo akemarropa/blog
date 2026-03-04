@@ -3,813 +3,813 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://localhost:1313/de/tags/app-site/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/app-site/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/app-site/"
+      href="https://akemarropa.github.io/blog/tags/app-site/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/tags/app-site/"
+      href="https://akemarropa.github.io/blog/de/tags/app-site/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/authors/</loc>
+    <loc>https://akemarropa.github.io/blog/de/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/authors/"
+      href="https://akemarropa.github.io/blog/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://localhost:1313/fr/authors/"
+      href="https://akemarropa.github.io/blog/fr/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/authors/"
+      href="https://akemarropa.github.io/blog/it/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="https://localhost:1313/pt-pt/authors/"
+      href="https://akemarropa.github.io/blog/pt-pt/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://localhost:1313/es/authors/"
+      href="https://akemarropa.github.io/blog/es/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://localhost:1313/pt-br/authors/"
+      href="https://akemarropa.github.io/blog/pt-br/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/authors/"
+      href="https://akemarropa.github.io/blog/ja/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/authors/"
+      href="https://akemarropa.github.io/blog/zh-cn/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/authors/"
+      href="https://akemarropa.github.io/blog/de/authors/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/autorenseite/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/autorenseite/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/beispiel/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/beispiel/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/benutzer/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/benutzer/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/users/</loc>
+    <loc>https://akemarropa.github.io/blog/de/users/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/users/"
+      href="https://akemarropa.github.io/blog/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://localhost:1313/fr/users/"
+      href="https://akemarropa.github.io/blog/fr/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/users/"
+      href="https://akemarropa.github.io/blog/it/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="https://localhost:1313/pt-pt/users/"
+      href="https://akemarropa.github.io/blog/pt-pt/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://localhost:1313/es/users/"
+      href="https://akemarropa.github.io/blog/es/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://localhost:1313/pt-br/users/"
+      href="https://akemarropa.github.io/blog/pt-br/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/users/"
+      href="https://akemarropa.github.io/blog/ja/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/users/"
+      href="https://akemarropa.github.io/blog/zh-cn/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/users/"
+      href="https://akemarropa.github.io/blog/de/users/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/blog/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/blog/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/blog/"
+      href="https://akemarropa.github.io/blog/tags/blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/blog/"
+      href="https://akemarropa.github.io/blog/it/tags/blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="https://localhost:1313/pt-pt/tags/blog/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/tags/blog/"
+      href="https://akemarropa.github.io/blog/pt-pt/tags/blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://localhost:1313/es/tags/blog/"
+      href="https://akemarropa.github.io/blog/es/tags/blog/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://akemarropa.github.io/blog/pt-br/tags/blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/tags/blog/"
+      href="https://akemarropa.github.io/blog/de/tags/blog/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/buch/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/buch/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/categories/</loc>
+    <loc>https://akemarropa.github.io/blog/de/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/categories/"
+      href="https://akemarropa.github.io/blog/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://localhost:1313/fr/categories/"
+      href="https://akemarropa.github.io/blog/fr/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/categories/"
+      href="https://akemarropa.github.io/blog/it/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="https://localhost:1313/pt-pt/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/categories/"
+      href="https://akemarropa.github.io/blog/pt-pt/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://localhost:1313/es/categories/"
+      href="https://akemarropa.github.io/blog/es/categories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://akemarropa.github.io/blog/pt-br/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/categories/"
+      href="https://akemarropa.github.io/blog/ja/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/categories/"
+      href="https://akemarropa.github.io/blog/zh-cn/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/categories/"
+      href="https://akemarropa.github.io/blog/de/categories/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/comic-seite/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/comic-seite/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/devops/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/devops/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/devops/"
+      href="https://akemarropa.github.io/blog/tags/devops/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://localhost:1313/fr/tags/devops/"
+      href="https://akemarropa.github.io/blog/fr/tags/devops/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/devops/"
+      href="https://akemarropa.github.io/blog/it/tags/devops/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="https://localhost:1313/pt-pt/tags/devops/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/tags/devops/"
+      href="https://akemarropa.github.io/blog/pt-pt/tags/devops/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://localhost:1313/es/tags/devops/"
+      href="https://akemarropa.github.io/blog/es/tags/devops/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://akemarropa.github.io/blog/pt-br/tags/devops/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/devops/"
+      href="https://akemarropa.github.io/blog/ja/tags/devops/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/tags/devops/"
+      href="https://akemarropa.github.io/blog/de/tags/devops/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/authors/secondauthor/</loc>
+    <loc>https://akemarropa.github.io/blog/de/authors/secondauthor/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/authors/secondauthor/"
+      href="https://akemarropa.github.io/blog/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://localhost:1313/fr/authors/secondauthor/"
+      href="https://akemarropa.github.io/blog/fr/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/authors/secondauthor/"
+      href="https://akemarropa.github.io/blog/it/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="https://localhost:1313/pt-pt/authors/secondauthor/"
+      href="https://akemarropa.github.io/blog/pt-pt/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://localhost:1313/es/authors/secondauthor/"
+      href="https://akemarropa.github.io/blog/es/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://localhost:1313/pt-br/authors/secondauthor/"
+      href="https://akemarropa.github.io/blog/pt-br/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/authors/secondauthor/"
+      href="https://akemarropa.github.io/blog/ja/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/authors/secondauthor/"
+      href="https://akemarropa.github.io/blog/zh-cn/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/authors/secondauthor/"
+      href="https://akemarropa.github.io/blog/de/authors/secondauthor/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/es/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/es/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/firmenseite/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/firmenseite/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/advanced/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/advanced/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/advanced/"
+      href="https://akemarropa.github.io/blog/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://localhost:1313/fr/tags/advanced/"
+      href="https://akemarropa.github.io/blog/fr/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/advanced/"
+      href="https://akemarropa.github.io/blog/it/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="https://localhost:1313/pt-pt/tags/advanced/"
+      href="https://akemarropa.github.io/blog/pt-pt/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://localhost:1313/es/tags/advanced/"
+      href="https://akemarropa.github.io/blog/es/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://localhost:1313/pt-br/tags/advanced/"
+      href="https://akemarropa.github.io/blog/pt-br/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/advanced/"
+      href="https://akemarropa.github.io/blog/ja/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/advanced/"
+      href="https://akemarropa.github.io/blog/zh-cn/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/tags/advanced/"
+      href="https://akemarropa.github.io/blog/de/tags/advanced/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/ki/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/ki/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/klasse/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/klasse/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/k%C3%BCnstliche-intelligenz/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/k%C3%BCnstliche-intelligenz/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/lernen/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/lernen/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/linux-administrator/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/linux-administrator/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/lustiges-projekt/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/lustiges-projekt/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/authors/nunocoracao/</loc>
+    <loc>https://akemarropa.github.io/blog/de/authors/nunocoracao/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/authors/nunocoracao/"
+      href="https://akemarropa.github.io/blog/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://localhost:1313/fr/authors/nunocoracao/"
+      href="https://akemarropa.github.io/blog/fr/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/authors/nunocoracao/"
+      href="https://akemarropa.github.io/blog/it/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="https://localhost:1313/pt-pt/authors/nunocoracao/"
+      href="https://akemarropa.github.io/blog/pt-pt/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://localhost:1313/es/authors/nunocoracao/"
+      href="https://akemarropa.github.io/blog/es/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://localhost:1313/pt-br/authors/nunocoracao/"
+      href="https://akemarropa.github.io/blog/pt-br/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/authors/nunocoracao/"
+      href="https://akemarropa.github.io/blog/ja/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/authors/nunocoracao/"
+      href="https://akemarropa.github.io/blog/zh-cn/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/authors/nunocoracao/"
+      href="https://akemarropa.github.io/blog/de/authors/nunocoracao/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/outdoor-blog/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/outdoor-blog/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/outdoor-blog/"
+      href="https://akemarropa.github.io/blog/tags/outdoor-blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/tags/outdoor-blog/"
+      href="https://akemarropa.github.io/blog/de/tags/outdoor-blog/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/pers%C3%B6nliche-seite/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/pers%C3%B6nliche-seite/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/pers%C3%B6nliche-website/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/pers%C3%B6nliche-website/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/pers%C3%B6nlicher-blog/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/pers%C3%B6nlicher-blog/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/portfolio/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/portfolio/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/portfolio/"
+      href="https://akemarropa.github.io/blog/tags/portfolio/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/portfolio/"
+      href="https://akemarropa.github.io/blog/it/tags/portfolio/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/tags/portfolio/"
+      href="https://akemarropa.github.io/blog/de/tags/portfolio/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/portfolio-site/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/portfolio-site/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/portfolio-site/"
+      href="https://akemarropa.github.io/blog/tags/portfolio-site/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/tags/portfolio-site/"
+      href="https://akemarropa.github.io/blog/de/tags/portfolio-site/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/programmierung/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/programmierung/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/projektseite/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/projektseite/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/puppenfotografie/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/puppenfotografie/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/seminare/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/seminare/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/series/</loc>
+    <loc>https://akemarropa.github.io/blog/de/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/series/"
+      href="https://akemarropa.github.io/blog/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://localhost:1313/fr/series/"
+      href="https://akemarropa.github.io/blog/fr/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/series/"
+      href="https://akemarropa.github.io/blog/it/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="https://localhost:1313/pt-pt/series/"
+      href="https://akemarropa.github.io/blog/pt-pt/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://localhost:1313/es/series/"
+      href="https://akemarropa.github.io/blog/es/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://localhost:1313/pt-br/series/"
+      href="https://akemarropa.github.io/blog/pt-br/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/series/"
+      href="https://akemarropa.github.io/blog/ja/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/series/"
+      href="https://akemarropa.github.io/blog/zh-cn/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/series/"
+      href="https://akemarropa.github.io/blog/de/series/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/software-engineering/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/software-engineering/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/software-engineering/"
+      href="https://akemarropa.github.io/blog/tags/software-engineering/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/tags/software-engineering/"
+      href="https://akemarropa.github.io/blog/de/tags/software-engineering/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/softwareentwickler/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/softwareentwickler/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/spieleseite/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/spieleseite/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/"
+      href="https://akemarropa.github.io/blog/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://localhost:1313/fr/tags/"
+      href="https://akemarropa.github.io/blog/fr/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/"
+      href="https://akemarropa.github.io/blog/it/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="https://localhost:1313/pt-pt/tags/"
+      href="https://akemarropa.github.io/blog/pt-pt/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://localhost:1313/es/tags/"
+      href="https://akemarropa.github.io/blog/es/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://localhost:1313/pt-br/tags/"
+      href="https://akemarropa.github.io/blog/pt-br/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/"
+      href="https://akemarropa.github.io/blog/ja/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/"
+      href="https://akemarropa.github.io/blog/zh-cn/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/tags/"
+      href="https://akemarropa.github.io/blog/de/tags/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/tech-blog/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/tech-blog/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/tech-blog/"
+      href="https://akemarropa.github.io/blog/tags/tech-blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/tags/tech-blog/"
+      href="https://akemarropa.github.io/blog/de/tags/tech-blog/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/techn/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/techn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/technologie-blog/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/technologie-blog/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/themenautor/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/themenautor/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/umgebungsdesign/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/umgebungsdesign/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/unternehmensseite/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/unternehmensseite/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/videospielentwickler/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/videospielentwickler/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/website-der-organisation/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/website-der-organisation/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/website-des-college-clubs/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/website-des-college-clubs/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/</loc>
+    <loc>https://akemarropa.github.io/blog/de/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/"
+      href="https://akemarropa.github.io/blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://localhost:1313/fr/"
+      href="https://akemarropa.github.io/blog/fr/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/"
+      href="https://akemarropa.github.io/blog/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="https://localhost:1313/pt-pt/"
+      href="https://akemarropa.github.io/blog/pt-pt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://localhost:1313/pt-br/"
+      href="https://akemarropa.github.io/blog/pt-br/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://localhost:1313/es/"
+      href="https://akemarropa.github.io/blog/es/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/"
+      href="https://akemarropa.github.io/blog/ja/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/"
+      href="https://akemarropa.github.io/blog/zh-cn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/"
+      href="https://akemarropa.github.io/blog/de/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/wissenschaft/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/wissenschaft/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/de/tags/world-of-warcraft/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/world-of-warcraft/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://localhost:1313/de/tags/world-of-warcraft/"
-    />
-  </url>
-  <url>
-    <loc>https://localhost:1313/de/tags/wow/</loc>
+    <loc>https://akemarropa.github.io/blog/de/tags/world-of-warcraft/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/wow/"
+      href="https://akemarropa.github.io/blog/tags/world-of-warcraft/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://localhost:1313/de/tags/wow/"
+      href="https://akemarropa.github.io/blog/de/tags/world-of-warcraft/"
+    />
+  </url>
+  <url>
+    <loc>https://akemarropa.github.io/blog/de/tags/wow/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://akemarropa.github.io/blog/tags/wow/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://akemarropa.github.io/blog/de/tags/wow/"
     />
   </url>
 </urlset>
