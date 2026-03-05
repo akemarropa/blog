@@ -1,15 +1,13 @@
 baseURL = 'https://akemarropa.github.io/blog/'
-theme = 'blowfish'
+languageCode = 'en-us'
 title = 'ake blog'
-languageCode = 'es'
-defaultContentLanguage = 'es'
+theme = 'blowfish'
 
 [params]
   defaultAppearance = "dark"
-  # Esto fuerza a que el contenido se vea aunque haya líos de idioma
-  mainSections = ["posts"]
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  page = ["HTML"]
-  section = ["HTML", "RSS"]
+[permalinks]
+  posts = "/:title/"
+
+[build]
+  writeStats = true
