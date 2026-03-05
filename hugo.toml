@@ -1,13 +1,16 @@
 baseURL = 'https://akemarropa.github.io/blog/'
-languageCode = 'en-us'
-title = 'ake blog'
 theme = 'blowfish'
+title = 'ake blog'
+languageCode = 'es'
+defaultContentLanguage = 'es'
 
 [params]
   defaultAppearance = "dark"
 
-[permalinks]
-  posts = "/:title/"
-
-[build]
-  writeStats = true
+# Esto obliga a Hugo a buscar contenido en la raíz de 'content' 
+# ignorando cualquier configuración de idioma que bloquee el texto.
+[languages]
+  [languages.es]
+    contentDir = "content"
+    languageName = "Spanish"
+    weight = 1
