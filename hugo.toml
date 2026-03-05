@@ -1,13 +1,13 @@
 baseURL = 'https://akemarropa.github.io/blog/'
-theme = 'blowfish'
+languageCode = 'en-us'
 title = 'ake blog'
-languageCode = 'es'
-
-# Esto es lo que le falta a Blowfish para pintar el contenido
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  page = ["HTML"]
-  section = ["HTML", "RSS"]
+theme = 'blowfish'
 
 [params]
   defaultAppearance = "dark"
+
+[permalinks]
+  posts = "/:title/"
+
+[build]
+  writeStats = true
