@@ -1,16 +1,11 @@
 baseURL = 'https://akemarropa.github.io/blog/'
-theme = 'blowfish'
-title = 'ake blog'
 languageCode = 'es'
-defaultContentLanguage = 'es'
+title = 'ake blog'
+theme = 'blowfish'
+
+# ESTAS DOS LÍNEAS SON VITALES PARA GITHUB PAGES
+relativeURLs = true
+canonifyURLs = true
 
 [params]
   defaultAppearance = "dark"
-
-# Esto obliga a Hugo a buscar contenido en la raíz de 'content' 
-# ignorando cualquier configuración de idioma que bloquee el texto.
-[languages]
-  [languages.es]
-    contentDir = "content"
-    languageName = "Spanish"
-    weight = 1
