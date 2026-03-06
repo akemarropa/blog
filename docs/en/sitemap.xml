@@ -76,13 +76,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/tags/academia/"
+      hreflang="es"
+      href="https://localhost:1313/es/tags/academia/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="https://localhost:1313/es/tags/academia/"
+      hreflang="pt-br"
+      href="https://localhost:1313/pt-br/tags/academia/"
     />
     <xhtml:link
       rel="alternate"
@@ -261,13 +261,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/tags/blog/"
+      hreflang="es"
+      href="https://localhost:1313/es/tags/blog/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="https://localhost:1313/es/tags/blog/"
+      hreflang="pt-br"
+      href="https://localhost:1313/pt-br/tags/blog/"
     />
     <xhtml:link
       rel="alternate"
@@ -381,13 +381,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/tags/devops/"
+      hreflang="es"
+      href="https://localhost:1313/es/tags/devops/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="https://localhost:1313/es/tags/devops/"
+      hreflang="pt-br"
+      href="https://localhost:1313/pt-br/tags/devops/"
     />
     <xhtml:link
       rel="alternate"
@@ -671,13 +671,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="https://localhost:1313/es/series/"
+      hreflang="pt-br"
+      href="https://localhost:1313/pt-br/series/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/series/"
+      hreflang="es"
+      href="https://localhost:1313/es/series/"
     />
     <xhtml:link
       rel="alternate"

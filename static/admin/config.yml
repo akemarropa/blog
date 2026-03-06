@@ -2,8 +2,6 @@ backend:
   name: github
   repo: akemarropa/blog
   branch: main
-  base_url: https://auth.sveltia.org # Esto elimina la dependencia de Netlify
-  auth_endpoint: /api/auth
   site_id: akemarropa.github.io
  
 
