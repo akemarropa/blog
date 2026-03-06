@@ -18,7 +18,12 @@ collections:
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
-      - {label: "Category", name: "categories", widget: "select", options: ["Technology", "Personal", "Tutorials"], multiple: false}
+      - label: "Category"
+        name: "categories"
+        widget: "select"
+        options: ["Art", "Tech", "AI", "General"]
+        required: false  # Esto permite no poner nada
+        multiple: false
       - {label: "Tags", name: "tags", widget: "list", default: ["blog"]}
       - label: "Body"
         name: "body"
