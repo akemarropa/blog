@@ -1,5 +1,5 @@
 baseURL = 'https://akemarropa.github.io/blog/'
-languageCode = 'es'
+languageCode = 'en'
 title = 'ake blog'
 theme = 'blowfish'
 
