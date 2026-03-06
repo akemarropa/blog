@@ -1,15 +1,18 @@
 ---
-title: "Empieza el viaje"
+title: A new tour is here
 date: 2026-03-04
 draft: false
 ---
-> *"there's an electricity in the air. dictated from my drive back to oc after the event; transcribed, formatted, and deployed by an ai agent!"*
+
+> _"there's an electricity in the air. dictated from my drive back to oc after the event; transcribed, formatted, and deployed by an ai agent!"_
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie bibendum ornare. Maecenas dignissim tincidunt arcu posuere scelerisque. Fusce dictum iaculis turpis, volutpat maximus arcu elementum ut. Vestibulum in hendrerit nulla, ut semper nibh. Cras vestibulum dui et neque ullamcorper, ac porta neque sollicitudin. Suspendisse potenti. Integer malesuada gravida felis sit amet tincidunt. Morbi cursus vitae nisi vitae sollicitudin. Phasellus nec gravida ligula. Praesent eu turpis at ex imperdiet tempus ut non justo. Nam volutpat tellus in felis maximus, vehicula tempor neque ultricies. Nullam pharetra mauris non ipsum dictum malesuada. Donec accumsan dictum tellus a suscipit. Nulla pharetra mauris sit amet dictum euismod. Duis non eros tristique nulla eleifend efficitur.
 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut purus massa, dictum eget tortor nec, sodales lacinia tortor. Vestibulum sed eros felis. Morbi vitae bibendum lacus. Pellentesque finibus, leo et condimentum iaculis, nunc odio condimentum massa, id viverra quam nulla non massa. Morbi pharetra velit eget augue luctus, sit amet lobortis purus bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce pellentesque elit leo, et suscipit nulla tempus quis. Suspendisse porttitor ultrices felis, eu elementum dolor laoreet a. Donec tempus iaculis aliquam.
 
 Integer pellentesque enim diam, at hendrerit metus dignissim id. Aenean imperdiet aliquam faucibus. Pellentesque egestas felis nec ante accumsan, non eleifend arcu laoreet. Donec metus velit, fermentum ut fermentum sed, pulvinar auctor est. Nunc pellentesque nec odio pretium fermentum. Aenean accumsan imperdiet enim, quis dapibus sapien mattis a. Nam dapibus dui odio, ac mollis mi consectetur sit amet. Suspendisse laoreet molestie lacus a efficitur. Mauris in ante pulvinar, faucibus dolor a, convallis felis. Curabitur fermentum velit et faucibus sollicitudin. Donec sit amet fringilla nulla, sit amet pulvinar dui. Nullam ultricies tortor vel ipsum mattis ornare.
+
+![](https://picsum.photos/id/19/1920/1280.webp)
 
 Proin tincidunt metus ac mauris sagittis ullamcorper. Praesent et enim et turpis ullamcorper suscipit. Praesent cursus velit ut vulputate dignissim. Mauris elementum sodales condimentum. In tempor ex nec nulla ullamcorper, non maximus purus malesuada. Praesent neque ante, rutrum vel dui eu, commodo malesuada eros. Sed pellentesque ex ac magna egestas consequat. Sed viverra leo a purus fringilla laoreet. Nunc commodo nunc eget gravida sagittis. Integer vulputate fringilla vulputate. Praesent luctus finibus ipsum, id rutrum ipsum semper eget. In a porta nulla, malesuada ullamcorper mi. Donec dictum pharetra dolor, quis posuere mi blandit nec.
 
