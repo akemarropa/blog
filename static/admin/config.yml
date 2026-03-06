@@ -2,4 +2,4 @@ backend:
   name: github
   repo: akemarropa/blog
   branch: main
-  # Al no poner auth_endpoint ni base_url, Sveltia buscará alternativas locales
+# No pongas nada más aquí abajo en backend

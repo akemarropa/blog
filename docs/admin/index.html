@@ -2,14 +2,14 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>Administrador Blog</title>
+  <title>Admin Panel</title>
   <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js" type="module"></script>
 </head>
 <body>
   <script>
-    // Forzamos a que no intente usar Netlify si no hay config
-    if (!window.location.hash && !localStorage.getItem('sveltia-cms:auth')) {
-      console.log("Esperando entrada de Token manual...");
+    // Si detecta que va a redirigir a Netlify, lo frena
+    if (window.location.search.includes("netlify")) {
+      window.location.href = window.location.pathname;
     }
   </script>
 </body>
