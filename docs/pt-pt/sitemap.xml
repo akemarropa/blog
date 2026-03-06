@@ -643,13 +643,13 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="https://localhost:1313/es/tags/mundo-de-warcraft/"
+      hreflang="pt-br"
+      href="https://localhost:1313/pt-br/tags/mundo-de-warcraft/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="https://localhost:1313/pt-br/tags/mundo-de-warcraft/"
+      hreflang="es"
+      href="https://localhost:1313/es/tags/mundo-de-warcraft/"
     />
     <xhtml:link
       rel="alternate"

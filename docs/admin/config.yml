@@ -2,20 +2,4 @@ backend:
   name: github
   repo: akemarropa/blog
   branch: main
-  site_id: akemarropa.github.io
- 
-
-publish_mode: editorial_workflow
-media_folder: "static/images"
-public_folder: "/images"
-
-collections:
-  - name: "posts"
-    label: "Post"
-    folder: "content/posts"
-    create: true
-    fields:
-      - {label: "Título", name: "title", widget: "string"}
-      - {label: "Fecha", name: "date", widget: "datetime"}
-      - {label: "Borrador", name: "draft", widget: "boolean", default: false}
-      - {label: "Cuerpo", name: "body", widget: "markdown"}
+  # Al no poner auth_endpoint ni base_url, Sveltia buscará alternativas locales

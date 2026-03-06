@@ -7,13 +7,10 @@
 </head>
 <body>
   <script>
-    // Esto fuerza a Sveltia a pedirte el Token si falla la auth automática
-    window.addEventListener('DOMContentLoaded', () => {
-      const urlParams = new URLSearchParams(window.location.search);
-      if (urlParams.has('error')) {
-        console.log('Reiniciando login por error de ruta');
-      }
-    });
+    // Forzamos a que no intente usar Netlify si no hay config
+    if (!window.location.hash && !localStorage.getItem('sveltia-cms:auth')) {
+      console.log("Esperando entrada de Token manual...");
+    }
   </script>
 </body>
 </html>
