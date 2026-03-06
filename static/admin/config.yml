@@ -2,4 +2,20 @@ backend:
   name: github
   repo: akemarropa/blog
   branch: main
-# No pongas nada más aquí abajo en backend
+
+# Esto soluciona el error de "Media folder is not defined"
+media_folder: "static/images"
+public_folder: "/images"
+
+# Esto soluciona el error de "Collections are not defined"
+collections:
+  - name: "posts"
+    label: "Entradas del Blog"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Fecha", name: "date", widget: "datetime"}
+      - {label: "Borrador", name: "draft", widget: "boolean", default: false}
+      - {label: "Cuerpo", name: "body", widget: "markdown"}
