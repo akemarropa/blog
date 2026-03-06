@@ -3,11 +3,16 @@ languageCode = 'en'
 title = 'ake blog'
 theme = 'blowfish'
 
-# ESTAS DOS LÍNEAS SON VITALES PARA GITHUB PAGES
+# Configuración de URLs y SEO
 relativeURLs = true
 canonifyURLs = true
+buildFuture = true
 
-[params]
-  defaultAppearance = "dark"
-  # ... tus otros params ...
-  CMS = true
+# ELIMINAR ETIQUETAS Y CATEGORÍAS (Minimalismo)
+[taxonomies]
+  tag = ""
+  category = ""
+
+# URLs LIMPIAS (Sin fechas)
+[permalinks]
+  posts = "/posts/:slug/"
