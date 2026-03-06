@@ -1,10 +1,13 @@
 backend:
   name: github
-  repo: akemarropa/blog # Tu usuario y repositorio
+  repo: akemarropa/blog
   branch: main
+  # Añade esto:
+  auth_endpoint: https://auth.sveltia.org/api/auth 
+  site_id: akemarropa.github.io
 
-publish_mode: editorial_workflow # Esto te permite guardar borradores
-media_folder: "static/images" # Donde se guardarán las fotos
+publish_mode: editorial_workflow
+media_folder: "static/images"
 public_folder: "/images"
 
 collections:
@@ -12,7 +15,6 @@ collections:
     label: "Post"
     folder: "content/posts"
     create: true
-    slug: "{{slug}}"
     fields:
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Fecha", name: "date", widget: "datetime"}
