@@ -19,13 +19,10 @@ title = "ake blog"
   showPoweredBy = false        # Esto elimina el texto "Powered by Hugo & Blowfish"
   showDonationButton = false   # Esto elimina el icono de la taza de café/donación
 
-[params.author]
+  [params.author]
   name = "ake"
   email = "-.-"
   image = ""
   headline = "My personal thoughts & ideas."
   bio = "Just a normal dude..."
-   links = [
-     { x-twitter = "https://twitter.com/burufugu" },
-     { github = "https://github.com/nunocoracao/blowfish" },
-  ]
+  links = []  # Esto deja la lista vacía de forma limpia y profesional
