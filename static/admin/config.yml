@@ -3,19 +3,24 @@ backend:
   repo: akemarropa/blog
   branch: main
 
-# Definición de rutas (Soluciona el error de "Media folder not defined")
+# Media and Public folders
 media_folder: "static/images"
 public_folder: "/images"
 
-# Definición de colecciones (Soluciona el error de "Collections not defined")
 collections:
   - name: "posts"
-    label: "Post"
+    label: "Blog Posts"
     folder: "content/posts"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Título", name: "title", widget: "string"}
-      - {label: "Fecha", name: "date", widget: "datetime"}
-      - {label: "Borrador", name: "draft", widget: "boolean", default: false}
-      - {label: "Cuerpo", name: "body", widget: "markdown"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+      - {label: "Category", name: "categories", widget: "select", options: ["Technology", "Personal", "Tutorials"], multiple: false}
+      - {label: "Tags", name: "tags", widget: "list", default: ["blog"]}
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        buttons: ["bold", "italic", "link", "heading-two", "heading-three", "quote", "bulleted-list", "numbered-list", "image"]
