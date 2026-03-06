@@ -1,14 +1,20 @@
 backend:
   name: github
-  repo: tu-usuario/mi-blog # Cambiaremos esto luego
+  repo: akemarropa/blog # Tu usuario y repositorio
   branch: main
-media_folder: "static/uploads"
-public_folder: "/uploads"
+
+publish_mode: editorial_workflow # Esto te permite guardar borradores
+media_folder: "static/images" # Donde se guardarán las fotos
+public_folder: "/images"
+
 collections:
-  - name: "blog"
-    label: "Artculos"
-    folder: "content/blog"
+  - name: "posts"
+    label: "Post"
+    folder: "content/posts"
     create: true
+    slug: "{{slug}}"
     fields:
-      - {label: "Ttulo", name: "title", widget: "string"}
-      - {label: "Contenido", name: "body", widget: "markdown"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Fecha", name: "date", widget: "datetime"}
+      - {label: "Borrador", name: "draft", widget: "boolean", default: false}
+      - {label: "Cuerpo", name: "body", widget: "markdown"}

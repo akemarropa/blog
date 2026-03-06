@@ -9,3 +9,5 @@ canonifyURLs = true
 
 [params]
   defaultAppearance = "dark"
+  # ... tus otros params ...
+  CMS = true
