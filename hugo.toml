@@ -2,16 +2,17 @@ baseURL = "https://akemarropa.github.io/blog/"
 theme = "blowfish"
 title = "ake blog"
 
-# IMPORTANTE: Desactivamos el modo relativo para que las rutas sean absolutas
-relativeURLs = false
-canonifyURLs = false 
-
 # Idioma por defecto
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
-# Limpieza total de secciones que no usamos
-disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+# --- FIX DE RUTAS ---
+# Dejamos estos en false para que Hugo genere rutas absolutas correctas
+relativeURLs = false
+canonifyURLs = false
+
+# Desactivar lo innecesario
+disableKinds = ["taxonomy", "term"]
 
 [taxonomies]
   tag = ""
