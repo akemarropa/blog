@@ -3,8 +3,9 @@ theme = "blowfish"
 title = "ake blog"
 
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false # Esto es clave para que el inglés no se rompa
 
-# NO USAR relativeURLs si da problemas de estilo
+# --- FIX DE ESTILOS ---
 relativeURLs = false
 canonifyURLs = true
 
@@ -23,6 +24,7 @@ disableKinds = ["taxonomy", "term"]
     contentDir = "content"
     languageCode = "en"
     weight = 1
+
   [languages.es]
     languageName = "Español"
     contentDir = "content/es"
