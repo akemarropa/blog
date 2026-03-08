@@ -2,14 +2,16 @@ baseURL = "https://akemarropa.github.io/blog/"
 theme = "blowfish"
 title = "ake blog"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false # Esto es clave para que el inglés no se rompa
-
-# --- FIX DE ESTILOS ---
+# IMPORTANTE: Desactivamos el modo relativo para que las rutas sean absolutas
 relativeURLs = false
-canonifyURLs = true
+canonifyURLs = false 
 
-disableKinds = ["taxonomy", "term"]
+# Idioma por defecto
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+# Limpieza total de secciones que no usamos
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 
 [taxonomies]
   tag = ""
