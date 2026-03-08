@@ -1,19 +1,14 @@
 baseURL = "https://akemarropa.github.io/blog/"
 theme = "blowfish"
 title = "ake blog"
-
 languageCode = "en"
-defaultContentLanguage = "en"
 
-# --- CONFIGURACIÓN ANTIFALLOS ---
+# Forzar rutas correctas
 relativeURLs = false
 canonifyURLs = false
 
+# Limpieza total
 disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
-
-[taxonomies]
-  tag = ""
-  category = ""
 
 [permalinks]
   posts = "/posts/:slug/"
