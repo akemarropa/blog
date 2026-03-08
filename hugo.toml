@@ -2,17 +2,14 @@ baseURL = "https://akemarropa.github.io/blog/"
 theme = "blowfish"
 title = "ake blog"
 
-# Idioma por defecto
+languageCode = "en"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
 
-# --- FIX DE RUTAS ---
-# Dejamos estos en false para que Hugo genere rutas absolutas correctas
+# --- CONFIGURACIÓN ANTIFALLOS ---
 relativeURLs = false
 canonifyURLs = false
 
-# Desactivar lo innecesario
-disableKinds = ["taxonomy", "term"]
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 
 [taxonomies]
   tag = ""
@@ -21,15 +18,6 @@ disableKinds = ["taxonomy", "term"]
 [permalinks]
   posts = "/posts/:slug/"
 
-[languages]
-  [languages.en]
-    languageName = "English"
-    contentDir = "content"
-    languageCode = "en"
-    weight = 1
-
-  [languages.es]
-    languageName = "Español"
-    contentDir = "content/es"
-    languageCode = "es"
-    weight = 2
+[params]
+  colorScheme = "blowfish"
+  defaultAppearance = "dark"
