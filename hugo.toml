@@ -1,3 +1,4 @@
+publishDir = "docs"
 baseURL = "https://akemarropa.github.io/blog/"
 theme = "blowfish"
 title = "ake blog"
@@ -16,3 +17,4 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 [params]
   colorScheme = "blowfish"
   defaultAppearance = "dark"
+  
