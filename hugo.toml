@@ -1,14 +1,16 @@
-publishDir = "docs"
 baseURL = "https://akemarropa.github.io/blog/"
+publishDir = "docs"
 theme = "blowfish"
 title = "ake blog"
-languageCode = "en"
 
-# --- CONFIGURACIÓN PARA GITHUB PAGES ---
+# Forzamos solo inglés para que no cree subcarpetas /en/ o /es/
+defaultContentLanguage = "en"
+disableLanguages = ["es"]
+
+# RUTAS CRÍTICAS
 canonifyURLs = true
 relativeURLs = false
 
-# Esto evita que Hugo se confunda con las carpetas
 disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 
 [permalinks]
@@ -17,4 +19,3 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 [params]
   colorScheme = "blowfish"
   defaultAppearance = "dark"
-  
