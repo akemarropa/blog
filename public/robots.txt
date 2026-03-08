@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akemarropa.github.io/blog/sitemap.xml
