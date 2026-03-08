@@ -3,14 +3,15 @@ publishDir = "docs"
 theme = "blowfish"
 title = "ake blog"
 
-# Forzamos solo inglés para que no cree subcarpetas /en/ o /es/
+# Forzamos un solo idioma
 defaultContentLanguage = "en"
 disableLanguages = ["es"]
 
-# RUTAS CRÍTICAS
+# Rutas absolutas para evitar el error de localhost
 canonifyURLs = true
 relativeURLs = false
 
+# Limpieza de archivos innecesarios
 disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 
 [permalinks]
