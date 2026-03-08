@@ -2,40 +2,29 @@ baseURL = "https://akemarropa.github.io/blog/"
 theme = "blowfish"
 title = "ake blog"
 
-# Idioma por defecto
 defaultContentLanguage = "en"
 
-# --- MINIMALISMO: DESACTIVAR ETIQUETAS Y BASURA ---
-disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+# NO USAR relativeURLs si da problemas de estilo
+relativeURLs = false
+canonifyURLs = true
+
+disableKinds = ["taxonomy", "term"]
 
 [taxonomies]
   tag = ""
   category = ""
 
-# --- URLs LIMPIAS (Sin fechas) ---
 [permalinks]
   posts = "/posts/:slug/"
 
-# --- CONFIGURACIÓN DE IDIOMAS (Inglés y Español) ---
 [languages]
   [languages.en]
     languageName = "English"
     contentDir = "content"
     languageCode = "en"
     weight = 1
-
   [languages.es]
     languageName = "Español"
     contentDir = "content/es"
     languageCode = "es"
     weight = 2
-
-# --- AJUSTES TÉCNICOS ---
-[params]
-  colorScheme = "blowfish"
-  showAppearanceSwitcher = false
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
