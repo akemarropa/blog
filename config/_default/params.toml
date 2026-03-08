@@ -33,10 +33,10 @@
 [authors.default]
   # --- TU PERFIL DE AUTOR ---
   name = "ake"
-  image = ""                   # Puedes poner "img/author.jpg" si subes una foto
+  image = ""
   headline = "My personal thoughts & ideas."
   bio = "Just a normal dude..."
-  links = []                   # LISTA VACÍA: Elimina iconos sociales de terceros
+  links = [] # Asegúrate de que esto esté vacío así: []
 
 [firebase]
   # Estas son las claves públicas que comentamos, puedes dejarlas así
