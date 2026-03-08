@@ -3,11 +3,11 @@ theme = "blowfish"
 title = "ake blog"
 languageCode = "en"
 
-# Forzar rutas correctas
+# --- CONFIGURACIÓN PARA GITHUB PAGES ---
+canonifyURLs = true
 relativeURLs = false
-canonifyURLs = false
 
-# Limpieza total
+# Esto evita que Hugo se confunda con las carpetas
 disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 
 [permalinks]
