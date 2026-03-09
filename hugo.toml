@@ -2,7 +2,7 @@ baseURL = "https://akemarropa.github.io/blog/"
 publishDir = "docs"
 theme = "blowfish"
 
-# Forzar un solo idioma y eliminar el rastro de 'es'
+# Configuración de idioma
 defaultContentLanguage = "en"
 disableLanguages = ["es"]
 
@@ -15,3 +15,9 @@ disableLanguages = ["es"]
 [params]
   colorScheme = "blowfish"
   defaultAppearance = "dark"
+
+# --- AÑADE ESTO PARA VER LOS POSTS EN LA HOME ---
+[params.homepage]
+  showRecent = true
+  showRecentItems = 5
+  layout = "background"
