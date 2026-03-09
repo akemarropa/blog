@@ -2,34 +2,25 @@ baseURL = "https://akemarropa.github.io/blog/"
 publishDir = "docs"
 theme = "blowfish"
 
-# Configuración de idioma
 defaultContentLanguage = "en"
 disableLanguages = ["es"]
-
-[languages]
-  [languages.en]
-    contentDir = "content"
-    languageName = "English"
-    weight = 1
 
 [params]
   colorScheme = "blowfish"
   defaultAppearance = "dark"
-  # Mantenemos la rueda de configuración
+  # Esto permite que la rueda funcione pero no se mueva sola
   showAppearanceToggle = true
-  # Mantenemos la búsqueda desactivada si así lo prefieres
+  
+  # Forzamos la desactivación de lo que no queremos
   enableSearch = false
-  showSearch = false
 
-  # --- CONFIGURACIÓN PARA LIMPIAR EL FOOTER ---
-  [params.footer]
-    showPoweredBy = false
-    showHugoGenerator = false
-    showCopyright = true
+# ESTA SECCIÓN ES LA QUE ELIMINA EL "POWERED BY" DEFINITIVAMENTE
+[params.footer]
+  showPoweredBy = false
+  showHugoGenerator = false
+  showCopyright = true
 
-# --- AÑADE ESTO PARA VER LOS POSTS EN LA HOME ---
 [params.homepage]
   showRecent = true
   showRecentItems = 10
-  layout = "background" 
-  showTaxonomies = false # Para que no salgan etiquetas vacías
+  layout = "background"
