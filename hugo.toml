@@ -15,13 +15,17 @@ disableLanguages = ["es"]
 [params]
   colorScheme = "blowfish"
   defaultAppearance = "dark"
-  # --- AÑADE ESTO PARA QUITAR LOS ICONOS ---
-  showAppearanceToggle = false
+  # Mantenemos la rueda de configuración
+  showAppearanceToggle = true
+  # Mantenemos la búsqueda desactivada si así lo prefieres
   enableSearch = false
   showSearch = false
-  # --- LIMPIEZA DEL PIE DE PÁGINA ---
-  showPoweredBy = false
-  showHugoGenerator = false
+
+  # --- CONFIGURACIÓN PARA LIMPIAR EL FOOTER ---
+  [params.footer]
+    showPoweredBy = false
+    showHugoGenerator = false
+    showCopyright = true
 
 # --- AÑADE ESTO PARA VER LOS POSTS EN LA HOME ---
 [params.homepage]
