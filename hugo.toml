@@ -15,6 +15,10 @@ disableLanguages = ["es"]
 [params]
   colorScheme = "blowfish"
   defaultAppearance = "dark"
+  # --- AÑADE ESTO PARA QUITAR LOS ICONOS ---
+  showAppearanceToggle = false
+  enableSearch = false
+  showSearch = false
 
 # --- AÑADE ESTO PARA VER LOS POSTS EN LA HOME ---
 [params.homepage]
