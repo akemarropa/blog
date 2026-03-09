@@ -26,3 +26,4 @@ defaultContentLanguage = "en"
   showRecent = true
   showRecentItems = 10
   layout = "background"
+  showTitle = false # <--- Esto quita el título del centro de la pantalla
