@@ -2,18 +2,26 @@ baseURL = "https://akemarropa.github.io/blog/"
 publishDir = "docs"
 theme = "blowfish"
 
+# Solo esto es necesario para un blog en un único idioma
 defaultContentLanguage = "en"
-disableLanguages = ["es"]
 
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[params]
+# ... resto de tu configuración ...
+
+[params]
+# ... resto de tu configuración ...
 [params]
   colorScheme = "blowfish"
   defaultAppearance = "dark"
-  # Mantenemos la rueda
   showAppearanceToggle = true
-  # Quitamos la lupa
   enableSearch = false
+  headerLayout = "basic"
 
-  # ESTA ES LA SECCIÓN CRÍTICA
   [params.footer]
     showPoweredBy = false
     showHugoGenerator = false
