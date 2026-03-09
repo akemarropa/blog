@@ -1,13 +1,13 @@
 baseURL = "https://akemarropa.github.io/blog/"
 publishDir = "docs"
 theme = "blowfish"
-title = "Ake Blog"
+title = "Ake Blog" # Esto mantiene el nombre en la pestaña y en el logo superior
 
 defaultContentLanguage = "en"
 
 [[menu.main]]
   name = "Home"
-  url = "https://akemarropa.github.io/" # <--- Cambiado a la raíz principal
+  url = "https://akemarropa.github.io/"
   weight = 1
 
 [params]
@@ -26,4 +26,6 @@ defaultContentLanguage = "en"
   showRecent = true
   showRecentItems = 10
   layout = "background"
-  showTitle = false # <--- Esto quita el título del centro de la pantalla
+  # EL TRUCO: Dejamos el título de la home vacío aquí para que no se pinte en el centro
+  title = "" 
+  showTitle = false
