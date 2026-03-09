@@ -1,13 +1,13 @@
 baseURL = "https://akemarropa.github.io/blog/"
 publishDir = "docs"
 theme = "blowfish"
-title = "ake blog" # <--- AÑADE ESTO (puedes cambiar el nombre)
+title = "Ake Blog"
 
 defaultContentLanguage = "en"
 
 [[menu.main]]
   name = "Home"
-  url = "https://akemarropa.github.io/blog/" # URL absoluta para evitar errores
+  url = "https://akemarropa.github.io/" # <--- Cambiado a la raíz principal
   weight = 1
 
 [params]
@@ -15,7 +15,7 @@ defaultContentLanguage = "en"
   defaultAppearance = "dark"
   showAppearanceToggle = true
   enableSearch = false
-  headerLayout = "basic" # Esto fuerza a que se vea el título y el menú
+  headerLayout = "basic"
 
   [params.footer]
     showPoweredBy = false
