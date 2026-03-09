@@ -8,17 +8,16 @@ disableLanguages = ["es"]
 [params]
   colorScheme = "blowfish"
   defaultAppearance = "dark"
-  # Esto permite que la rueda funcione pero no se mueva sola
+  # Mantenemos la rueda
   showAppearanceToggle = true
-  
-  # Forzamos la desactivación de lo que no queremos
+  # Quitamos la lupa
   enableSearch = false
 
-# ESTA SECCIÓN ES LA QUE ELIMINA EL "POWERED BY" DEFINITIVAMENTE
-[params.footer]
-  showPoweredBy = false
-  showHugoGenerator = false
-  showCopyright = true
+  # ESTA ES LA SECCIÓN CRÍTICA
+  [params.footer]
+    showPoweredBy = false
+    showHugoGenerator = false
+    showCopyright = true
 
 [params.homepage]
   showRecent = true
