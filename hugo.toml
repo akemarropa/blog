@@ -19,5 +19,6 @@ disableLanguages = ["es"]
 # --- AÑADE ESTO PARA VER LOS POSTS EN LA HOME ---
 [params.homepage]
   showRecent = true
-  showRecentItems = 5
-  layout = "background"
+  showRecentItems = 10
+  layout = "background" 
+  showTaxonomies = false # Para que no salgan etiquetas vacías
