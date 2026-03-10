@@ -1,7 +1,7 @@
 baseURL = "https://akemarropa.github.io/blog/"
 publishDir = "docs"
 theme = "blowfish"
-title = "Ake Blog" # Esto mantiene el nombre en la pestaña y en el logo superior
+title = "ake Blog"
 
 defaultContentLanguage = "en"
 
@@ -16,8 +16,8 @@ defaultContentLanguage = "en"
   showAppearanceToggle = true
   enableSearch = false
   headerLayout = "basic"
-   # ... otras configuraciones ...
-  favicon = "favicon.svg"  # <--- Añade esta línea
+  # Esta línea es la clave para que use el SVG
+  favicon = "favicon.svg"
 
   [params.footer]
     showPoweredBy = false
@@ -28,6 +28,5 @@ defaultContentLanguage = "en"
   showRecent = true
   showRecentItems = 10
   layout = "background"
-  # EL TRUCO: Dejamos el título de la home vacío aquí para que no se pinte en el centro
   title = "" 
   showTitle = false
