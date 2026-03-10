@@ -1,7 +1,7 @@
 baseURL = "https://akemarropa.github.io/blog/"
 publishDir = "docs"
 theme = "blowfish"
-title = "ake Blog"
+title = "Ake Blog"
 
 defaultContentLanguage = "en"
 
@@ -14,19 +14,15 @@ defaultContentLanguage = "en"
   colorScheme = "blowfish"
   defaultAppearance = "dark"
   showAppearanceToggle = true
-  enableSearch = false
   headerLayout = "basic"
-  # Esta línea es la clave para que use el SVG
-  favicon = "favicon.svg"
+  # Eliminamos la línea favicon de aquí, Blowfish lo detectará por carpetas
 
   [params.footer]
     showPoweredBy = false
-    showHugoGenerator = false
     showCopyright = true
 
 [params.homepage]
+  layout = "background"
   showRecent = true
   showRecentItems = 10
-  layout = "background"
-  title = "" 
   showTitle = false
