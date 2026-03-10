@@ -16,6 +16,8 @@ defaultContentLanguage = "en"
   showAppearanceToggle = true
   enableSearch = false
   headerLayout = "basic"
+   # ... otras configuraciones ...
+  favicon = "favicon.svg"  # <--- Añade esta línea
 
   [params.footer]
     showPoweredBy = false
