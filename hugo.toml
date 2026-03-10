@@ -1,7 +1,7 @@
 baseURL = "https://akemarropa.github.io/blog/"
 publishDir = "docs"
 theme = "blowfish"
-title = "Ake Blog"
+title = "ake Blog"
 
 defaultContentLanguage = "en"
 
@@ -15,7 +15,6 @@ defaultContentLanguage = "en"
   defaultAppearance = "dark"
   showAppearanceToggle = true
   headerLayout = "basic"
-  # Eliminamos la línea favicon de aquí, Blowfish lo detectará por carpetas
 
   [params.footer]
     showPoweredBy = false
@@ -25,4 +24,5 @@ defaultContentLanguage = "en"
   layout = "background"
   showRecent = true
   showRecentItems = 10
+  title = "" 
   showTitle = false
