@@ -1,5 +1,5 @@
 ---
-title: To be an NFT artist
+title: Test > 1
 date: 2026-03-04
 description: Being an NFT artist is about using digital tools, crypto technology, and your own creative voice to turn digital art into collectible, verifiable assets on the blockchain. It’s still art at its core—just with new ways to sell, share, and connect with collectors in the NFT art and crypto art space.
 draft: false
