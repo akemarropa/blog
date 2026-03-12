@@ -8,7 +8,7 @@ draft: false
 > _"Being an NFT artist means owning your digital creations in a way traditional art never allowed—true scarcity, ongoing royalties, and a global collector community that values your vision. It’s not just selling art; it’s building a creative legacy on the blockchain."_
 > _Alex Rivera, generative NFT artist & founder of CryptoCanvas Collective_
 
-## 
+##
 So, what is an NFT artist?
 
 An NFT artist is a creator who makes artwork and then “mints” it as a non‑fungible token on a blockchain, like Ethereum or other crypto networks. That NFT serves as a digital certificate of authenticity, proving who created the piece and who owns it.
@@ -49,7 +49,7 @@ On top of your usual art skills, you slowly build a new toolkit:
 - Learning how royalties, scarcity, and limited editions affect the value of your **NFT art**.
 - Building an online presence across Twitter/X, Instagram, Farcaster, Discord, and marketplaces so collectors can actually see your **digital art**.
 
-You don’t need to be a hardcore crypto expert to start; you just need enough to stay safe, avoid scams, and mint with intention.
+You don’t need to be a crypto expert to start; you just need the basics to stay safe—like double-checking wallet connections before approving transactions, never sharing your private keys or seed phrases, sticking to trusted marketplaces, and avoiding “too good to be true” DM offers from random accounts. That way, you sidestep common scams, mint your **NFT art** with confidence, and keep your focus on creating.
 
 ## NFT art, digital art, and the crypto culture
 
@@ -94,7 +94,7 @@ If you’re already creating **digital art**, you’re honestly _way_ closer t
 Here’s how it typically unfolds for most **digital artists** dipping their toes into **NFT art** and **crypto art**:
 
 **Step 1: You’re already doing the core work.**
-You’ve got the skills—drawing, texturing, animating, or prompting AI tools. Your files (PNGs, GLBs, MP4s) are **digital art** ready to go. No need to learn a whole new medium; **NFTs** just package what you already make into something ownable and sellable on the blockchain.
+You’re already creating—drawing, texturing, animating, prompting AI tools, or making digital images, videos, music, and more. Your files (PNGs, GLBs, MP4s) are **digital art** ready to go. No need to learn a whole new medium; **NFTs** just package what you already make into something that can be owned and sold on the blockchain.
 
 **Step 2: Curiosity kicks in.**
 Maybe you see friends selling **NFT art** on a specific marketplace or hear about collectors paying real money for **crypto art**. You start wondering: _“Could someone actually own my pixel-perfect character designs?”_ That’s the spark—same as when you first tried digital brushes instead of pencils.
