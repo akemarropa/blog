@@ -14,7 +14,6 @@ defaultContentLanguage = "en"
   defaultAppearance = "dark"
   showAppearanceToggle = true
   headerLayout = "basic"
-  # Buscador desactivado
   enableSearch = false 
 
   [params.footer]
