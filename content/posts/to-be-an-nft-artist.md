@@ -8,7 +8,7 @@ description: Being an NFT artist is about using digital tools, crypto technology
 
 > _Alex Rivera, generative NFT artist & founder of CryptoCanvas Collective_
 
-### 
+###
 **So, what is an NFT artist?**
 
 An NFT artist is a creator who makes artwork and then “mints” it as a non‑fungible token on a blockchain, like Ethereum or other crypto networks. That NFT serves as a digital certificate of authenticity, proving who created the piece and who owns it.
@@ -61,7 +61,7 @@ Here’s what that often looks like:
 
 - Dropping a new **NFT art** collection and sharing the story behind the pieces.
 - Joining spaces or chats where people talk about **crypto art**, **NFT** markets, and upcoming projects.
-- Collaborating with other \*\*digital artists, art communities, \*\* or devs to add utility, like gated content or metaverse experiences.
+- Collaborating with other digital artists, art communities, or devs to add utility, like gated content or metaverse experiences.
 
 These partnerships don’t just boost visibility; they create **digital art** ecosystems where your **NFTs** keep giving value long after the sale. Collectors love it, and you build lasting networks in the **crypto art** scene.
 
