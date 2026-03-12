@@ -41,6 +41,8 @@ For example:
 
 Your **digital art** becomes part of a living ecosystem where collectors can prove they own your work, trade it on marketplaces, or hold it proudly as part of their **NFT art** collection. What makes **NFTs** so powerful is the unique control they guarantee through blockchain ownership—you, the **NFT artist**, set the rules upfront, like built-in royalties on every resale (so you keep earning passively), programmable perks for holders (unlockable files, future drops, or community access), and true scarcity that no one can duplicate or fake. This gives you unprecedented creative and financial control in the **crypto art** world, turning one-time sales into ongoing relationships with your collectors.
 
+![](https://picsum.photos/id/6/1920/1280.webp)
+
 ## Skills you grow as an NFT artist
 
 On top of your usual art skills, you slowly build a new toolkit:
