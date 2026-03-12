@@ -1,26 +1,90 @@
 ---
-title: AWe are here
+title: To be an NFT artist
 date: 2026-03-04
-description: the long brown fox
+description: Being an NFT artist is about using digital tools, crypto technology, and your own creative voice to turn digital art into collectible, verifiable assets on the blockchain. It’s still art at its core—just with new ways to sell, share, and connect with collectors in the NFT art and crypto art space.
 draft: false
 ---
 
 > _"there's an electricity in the air. dictated from my drive back to oc after the event; transcribed, formatted, and deployed by an ai agent!"_
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie bibendum ornare. Maecenas dignissim tincidunt arcu posuere scelerisque. Fusce dictum iaculis turpis, volutpat maximus arcu elementum ut. Vestibulum in hendrerit nulla, ut semper nibh. Cras vestibulum dui et neque ullamcorper, ac porta neque sollicitudin. Suspendisse potenti. Integer malesuada gravida felis sit amet tincidunt. Morbi cursus vitae nisi vitae sollicitudin. Phasellus nec gravida ligula. Praesent eu turpis at ex imperdiet tempus ut non justo. Nam volutpat tellus in felis maximus, vehicula tempor neque ultricies. Nullam pharetra mauris non ipsum dictum malesuada. Donec accumsan dictum tellus a suscipit. Nulla pharetra mauris sit amet dictum euismod. Duis non eros tristique nulla eleifend efficitur.
+## So, what is an NFT artist?
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut purus massa, dictum eget tortor nec, sodales lacinia tortor. Vestibulum sed eros felis. Morbi vitae bibendum lacus. Pellentesque finibus, leo et condimentum iaculis, nunc odio condimentum massa, id viverra quam nulla non massa. Morbi pharetra velit eget augue luctus, sit amet lobortis purus bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce pellentesque elit leo, et suscipit nulla tempus quis. Suspendisse porttitor ultrices felis, eu elementum dolor laoreet a. Donec tempus iaculis aliquam.
+An NFT artist is a creator who makes artwork and then “mints” it as a non‑fungible token on a blockchain, like Ethereum or other crypto networks. That NFT serves as a digital certificate of authenticity, proving who created the piece and who owns it.
 
-Integer pellentesque enim diam, at hendrerit metus dignissim id. Aenean imperdiet aliquam faucibus. Pellentesque egestas felis nec ante accumsan, non eleifend arcu laoreet. Donec metus velit, fermentum ut fermentum sed, pulvinar auctor est. Nunc pellentesque nec odio pretium fermentum. Aenean accumsan imperdiet enim, quis dapibus sapien mattis a. Nam dapibus dui odio, ac mollis mi consectetur sit amet. Suspendisse laoreet molestie lacus a efficitur. Mauris in ante pulvinar, faucibus dolor a, convallis felis. Curabitur fermentum velit et faucibus sollicitudin. Donec sit amet fringilla nulla, sit amet pulvinar dui. Nullam ultricies tortor vel ipsum mattis ornare.
+Your **digital art** can be anything: illustration, 3D, animation, generative AI art, photography, or even sound and video, as long as it can be represented as a unique token. When someone buys your **NFT art**, they’re buying a unique crypto asset linked to your artwork, not just another copy of a file.
 
-![](https://picsum.photos/id/19/1920/1280.webp)
+## How NFT art actually works
 
-Proin tincidunt metus ac mauris sagittis ullamcorper. Praesent et enim et turpis ullamcorper suscipit. Praesent cursus velit ut vulputate dignissim. Mauris elementum sodales condimentum. In tempor ex nec nulla ullamcorper, non maximus purus malesuada. Praesent neque ante, rutrum vel dui eu, commodo malesuada eros. Sed pellentesque ex ac magna egestas consequat. Sed viverra leo a purus fringilla laoreet. Nunc commodo nunc eget gravida sagittis. Integer vulputate fringilla vulputate. Praesent luctus finibus ipsum, id rutrum ipsum semper eget. In a porta nulla, malesuada ullamcorper mi. Donec dictum pharetra dolor, quis posuere mi blandit nec.
+Under the hood, **NFT art** is just a digital file and some text related (metadata), turned into a token on a blockchain. The token stores a unique ID and a link to the artwork, so ownership and sales are recorded publicly and can’t be quietly changed or faked.
 
-Morbi viverra sodales orci, placerat molestie justo ullamcorper eu. In placerat, eros quis vulputate dictum, erat nibh consectetur nibh, ut scelerisque sem urna in sapien. Nulla justo neque, efficitur sed ante vitae, dictum placerat massa. Nunc ultricies enim quis metus rutrum lacinia. Proin et massa id leo posuere dignissim nec in odio. Suspendisse elementum facilisis purus vitae luctus. In eget lectus a erat interdum tincidunt sed eu mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean aliquam tellus vitae convallis malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus. In ut semper erat, at mattis turpis. Donec varius blandit est vestibulum posuere. Mauris nec vestibulum felis. Suspendisse potenti. Fusce vitae fringilla augue.
+As an NFT artist, you usually:
 
-Praesent faucibus porta urna eget bibendum. Suspendisse sit amet eros at elit tincidunt placerat. Morbi nec rhoncus risus. Nulla vulputate porta lobortis. Donec mollis luctus leo. Donec blandit hendrerit massa, in laoreet neque facilisis sit amet. Ut vel enim mollis, placerat libero sit amet, lobortis est. Suspendisse potenti. Donec ut lorem gravida, efficitur velit nec, posuere tortor. Aliquam vulputate pretium aliquet. Proin scelerisque eros at commodo dictum. Cras iaculis dapibus ipsum. Suspendisse in egestas nisl, ut luctus enim. Ut quis enim ligula.
+- Create your **digital art** in your favorite tools, or digitise it.
+- Upload it to an **NFT art** marketplace like OpenSea, Tezos, Foundation, SuperRare, or similar platforms.
+- Connect a crypto wallet, choose your settings, and mint the piece into an **NFT**.
 
-Sed venenatis velit ullamcorper elementum rutrum. Ut ut lectus faucibus, congue tortor sit amet, mattis dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam semper euismod erat, eget euismod mi imperdiet vitae. Proin ac urna nisl. Nam ut tortor dignissim, pretium enim at, dapibus arcu. Nulla dictum enim tellus, sit amet mattis metus congue quis. Nunc volutpat porta ullamcorper. Ut bibendum ultricies pretium.
+Once minted, your **NFT art** can be listed for sale, collected, resold, or even used for unlocking content, memberships, or other crypto‑powered perks.
 
-Ut auctor risus nec quam ullamcorper porta. Donec sit amet tellus eu dolor viverra varius. Ut nec pharetra tortor. Morbi lacus est, malesuada eu lorem non, posuere convallis lorem. Integer ante ante, cursus quis nisl eget, tincidunt tincidunt urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean auctor felis metus, sed faucibus dui consequat sed. In risus felis, porta nec tellus sit amet, gravida vehicula ligula.
+## The creative side of being an NFT artist
+
+Being an NFT artist isn’t just about crypto and tech; it’s deeply about creativity, experimentation, and style. You’re still designing characters, building worlds, exploring color, and refining your visual language—just in a digital‑first way.
+
+For example:
+
+- A digital illustrator might release a series of hand‑drawn characters as **NFT art** collectibles.
+- A 3D artist could turn their abstract renders into animated **crypto art** loops.
+- A motion designer might create short, hypnotic loops specifically designed for on‑chain **digital art** displays.
+- A **generative artist** uses code and algorithms—like Processing, TouchDesigner, or custom scripts—to produce endless variations of patterns, fractals, or evolving landscapes. They mint these as **NFT art** editions where each token captures a one-of-a-kind output from the algorithm, appealing to collectors who love the math-meets-art vibe. Think dynamic pieces that feel alive, with rarity baked into the code.
+- An **AI artist** collaborates with tools like Midjourney, Stable Diffusion, or FLUX to generate surreal dreamscapes, hyper-real portraits, or impossible architectures. They refine prompts like a painter mixes colors, then mint the results as **NFTs**—often as evolving series or unique pieces. It’s **digital art** that pushes boundaries, blending human intuition with machine magic.
+
+Your **digital art** becomes part of a living ecosystem where collectors can prove they own your work, trade it on marketplaces, or hold it proudly as part of their **NFT art** collection. What makes **NFTs** so powerful is the unique control they guarantee through blockchain ownership—you, the **NFT artist**, set the rules upfront, like built-in royalties on every resale (so you keep earning passively), programmable perks for holders (unlockable files, future drops, or community access), and true scarcity that no one can duplicate or fake. This gives you unprecedented creative and financial control in the **crypto art** world, turning one-time sales into ongoing relationships with your collectors.
+
+## Skills you grow as an NFT artist
+
+On top of your usual art skills, you slowly build a new toolkit:
+
+- Understanding how blockchain, **NFTs**, and **crypto** wallets work.
+- Learning how royalties, scarcity, and limited editions affect the value of your **NFT art**.
+- Building an online presence across Twitter/X, Instagram, Farcaster, Discord, and marketplaces so collectors can actually see your **digital art**.
+
+You don’t need to be a hardcore crypto expert to start; you just need enough to stay safe, avoid scams, and mint with intention.
+
+## NFT art, digital art, and the crypto culture
+
+If you’re already making **digital art**, becoming an NFT artist is really about stepping into the crypto culture around that art. The scene is full of collectors, other **NFT artists**, and communities built around specific aesthetics, stories, or worlds.
+
+Here’s what that often looks like:
+
+- Dropping a new **NFT art** collection and sharing the story behind the pieces.
+- Joining spaces or chats where people talk about **crypto art**, **NFT** markets, and upcoming projects.
+- Collaborating with other **digital artists, art communities, ** or devs to add utility, like gated content or metaverse experiences.
+
+These partnerships don’t just boost visibility; they create **digital art** ecosystems where your **NFTs** keep giving value long after the sale. Collectors love it, and you build lasting networks in the **crypto art** scene. 
+
+## Simple SEO‑friendly tips for NFT artists
+
+If you’re blogging about your journey, a bit of **NFT SEO** can help more people discover your work. You don’t need to “keyword stuff”; just weave natural phrases into your posts, like you’re explaining your process to a friend.
+
+Some useful keyword ideas to blend into your writing:
+
+- art, digital art, NFT, NFTs, NFT art, crypto art, crypto
+- NFT artist, digital artist, crypto artist, NFT art collection
+- how to become an NFT artist, how to sell digital art as NFTs
+
+You can use them in:
+
+- Your blog titles (for example: “How I Started as an NFT Artist in Digital Art and Crypto”).
+- Your headings (“Why I Chose NFT Art for My Digital Art Journey”).
+- Your image alt text (“abstract NFT art in bright pale colors”).
+
+The goal is to make it super clear—both to humans and search engines—that you’re talking about **art**, **NFTs**, **NFT art**, **digital art**, and the **crypto** side of your creative practice.
+
+## What it really feels like to be an NFT artist
+
+Day to day, being an NFT artist feels like this mix of studio time and online exploration. One moment you’re deep in a **digital art** piece, tweaking light and texture; the next, you’re listing new **NFT art**, answering collector DMs, or joining a crypto community call.
+
+Sometimes it’s exciting and fast‑paced—new drops, bids, collaborations. Other times it’s quiet, and you’re just making work, refining your style, and slowly building your presence in the **NFT art** world. Either way, it’s still about what it has always been for artists: making honest, expressive work and finding people who connect with it.
+
+If you’re already creating **digital art**, you’re closer than you think to being an NFT artist—minting is just the next experiment in your creative journey.
+
+What kind of digital art are you making right now—illustration, 3D, animation, or something else?
