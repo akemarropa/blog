@@ -1,5 +1,4 @@
 baseURL = "https://akemarropa.github.io/blog/"
-publishDir = "docs"
 theme = "blowfish"
 title = "ake Blog"
 
@@ -15,7 +14,7 @@ defaultContentLanguage = "en"
   defaultAppearance = "dark"
   showAppearanceToggle = true
   headerLayout = "basic"
-  # ESTA ES LA LÍNEA QUE FALTABA:
+  # Buscador desactivado
   enableSearch = false 
 
   [params.footer]
